@@ -1,0 +1,9 @@
+{
+  "id":"atomevents",
+  "name":"AtomEvents",
+  "version":"1.0.0",
+  "description":"AtomEvents plugin",
+  "author": "Alijk",
+  "dependencies":[],
+  "main":"ir.alijk.atomevents.AtomEvents"
+}
